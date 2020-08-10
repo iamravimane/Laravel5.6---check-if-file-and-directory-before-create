@@ -1,1 +1,1 @@
-# Laravel5.6---check-if-file-or-directory-before-create
+# Laravel5.6 check if file or directory before create
